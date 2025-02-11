@@ -1,6 +1,6 @@
 # Scoop 应用库中国加速
 
-![GitHub Actions Workflow Status](https://github.com/CZAsTc/scoop-cn/actions/workflows/schedule.yml/badge.svg)
+[![.github/workflows/schedule.yml](https://github.com/CZAsTc/scoop-cn/actions/workflows/schedule.yml/badge.svg)](https://github.com/CZAsTc/scoop-cn/actions/workflows/schedule.yml)
 
 本仓库 fork 自 [duzyn/scoop-cn](https://github.com/duzyn/scoop-cn) 。这个版本的唯一改动是更新了运行间隔时间。其他部分与原仓库保持一致。
 

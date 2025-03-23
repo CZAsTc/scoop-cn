@@ -9,11 +9,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/vim/vim-win32-installer/releases/download/v9.1.1227/gvim_9.1.1227_x64.zip",
+            "url": "https://github.sd9.me/https://github.com/vim/vim-win32-installer/releases/download/v9.1.1227/gvim_9.1.1227_x64.zip",
             "hash": "196717c086d28a09ffc6a9ced9b5372d5d6d0521497cb76c18ab5306ab832d4f"
         },
         "32bit": {
-            "url": "https://ghproxy.cc/https://github.com/vim/vim-win32-installer/releases/download/v9.1.1227/gvim_9.1.1227_x86.zip",
+            "url": "https://github.sd9.me/https://github.com/vim/vim-win32-installer/releases/download/v9.1.1227/gvim_9.1.1227_x86.zip",
             "hash": "5b9787bc8aa9064bb5f80fcfadfa23ece942c6e78c51bc729b396fdbd96dffee"
         }
     },
@@ -103,10 +103,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/vim/vim-win32-installer/releases/download/v$version/gvim_$version_x64.zip"
+                "url": "https://github.sd9.me/https://github.com/vim/vim-win32-installer/releases/download/v$version/gvim_$version_x64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.cc/https://github.com/vim/vim-win32-installer/releases/download/v$version/gvim_$version_x86.zip"
+                "url": "https://github.sd9.me/https://github.com/vim/vim-win32-installer/releases/download/v$version/gvim_$version_x86.zip"
             }
         },
         "extract_dir": "vim\\vim$majorVersion$minorVersion"

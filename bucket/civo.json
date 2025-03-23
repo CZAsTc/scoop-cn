@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/civo/cli/releases/download/v1.1.98/civo-1.1.98-windows-amd64.zip",
+            "url": "https://github.sd9.me/https://github.com/civo/cli/releases/download/v1.1.98/civo-1.1.98-windows-amd64.zip",
             "hash": "e90e4da9bcd14c89cf8476215d11fe351b0fb7dc9e020c3b5d6dd661328f7334"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/civo/cli/releases/download/v$version/civo-$version-windows-amd64.zip"
+                "url": "https://github.sd9.me/https://github.com/civo/cli/releases/download/v$version/civo-$version-windows-amd64.zip"
             }
         },
         "hash": {

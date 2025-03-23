@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/argoproj/argo-cd/releases/download/v2.14.7/argocd-windows-amd64.exe#/argocd.exe",
+            "url": "https://github.sd9.me/https://github.com/argoproj/argo-cd/releases/download/v2.14.7/argocd-windows-amd64.exe#/argocd.exe",
             "hash": "69c5d088620912611f0fa8e6af19959ae6178bf8c4428395c5684dd6874ee71d"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/argoproj/argo-cd/releases/download/v$version/argocd-windows-amd64.exe#/argocd.exe"
+                "url": "https://github.sd9.me/https://github.com/argoproj/argo-cd/releases/download/v$version/argocd-windows-amd64.exe#/argocd.exe"
             }
         }
     }

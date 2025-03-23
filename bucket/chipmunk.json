@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/esrlabs/chipmunk/releases/download/3.16.3/chipmunk@3.16.3-win64-portable.tgz",
+            "url": "https://github.sd9.me/https://github.com/esrlabs/chipmunk/releases/download/3.16.3/chipmunk@3.16.3-win64-portable.tgz",
             "hash": "6a1570168bf6bf63a91a7319961a01e1bdd8dc498116682ff7f7f0902cd1355a"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/esrlabs/chipmunk/releases/download/$version/chipmunk@$version-win64-portable.tgz"
+                "url": "https://github.sd9.me/https://github.com/esrlabs/chipmunk/releases/download/$version/chipmunk@$version-win64-portable.tgz"
             }
         }
     }

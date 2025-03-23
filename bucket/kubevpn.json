@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.1/kubevpn_v2.4.1_windows_amd64.zip",
+            "url": "https://github.sd9.me/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.1/kubevpn_v2.4.1_windows_amd64.zip",
             "hash": "c4c99709a5d0778e8cbe83a3f031e717ceb02d620d665aef645c11e98ec73548"
         },
         "32bit": {
-            "url": "https://ghproxy.cc/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.1/kubevpn_v2.4.1_windows_386.zip",
+            "url": "https://github.sd9.me/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.1/kubevpn_v2.4.1_windows_386.zip",
             "hash": "ec211cff5ef71ba2f613b32d41eb5f0cdd6a6be136f1c26c38aa26abe39105d9"
         },
         "arm64": {
-            "url": "https://ghproxy.cc/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.1/kubevpn_v2.4.1_windows_arm64.zip",
+            "url": "https://github.sd9.me/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.1/kubevpn_v2.4.1_windows_arm64.zip",
             "hash": "6245328a7251cd1c573061029162ce83230ab80bf2c2e6de85c3e71fe96b365d"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_amd64.zip"
+                "url": "https://github.sd9.me/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.cc/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_386.zip"
+                "url": "https://github.sd9.me/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.cc/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_arm64.zip"
+                "url": "https://github.sd9.me/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_arm64.zip"
             }
         }
     }

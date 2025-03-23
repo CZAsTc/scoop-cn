@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/firebase/firebase-tools/releases/download/v13.35.1/firebase-tools-win.exe#/firebase.exe",
+            "url": "https://github.sd9.me/https://github.com/firebase/firebase-tools/releases/download/v13.35.1/firebase-tools-win.exe#/firebase.exe",
             "hash": "375c7526b36b13b49169cac1988b5b15e9c2cbc05f60665168f96503e9b276da"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/firebase/firebase-tools/releases/download/v$version/firebase-tools-win.exe#/firebase.exe"
+                "url": "https://github.sd9.me/https://github.com/firebase/firebase-tools/releases/download/v$version/firebase-tools-win.exe#/firebase.exe"
             }
         }
     }

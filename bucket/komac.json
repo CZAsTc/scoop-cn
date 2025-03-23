@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/russellbanks/Komac/releases/download/v2.11.1/komac-2.11.1-x86_64-pc-windows-msvc.exe#/Komac.exe",
+            "url": "https://github.sd9.me/https://github.com/russellbanks/Komac/releases/download/v2.11.1/komac-2.11.1-x86_64-pc-windows-msvc.exe#/Komac.exe",
             "hash": "44ec343cc9997ac30dbf9c7894800301620fc4b83e7fffd3a07e65b97e6bbbad"
         },
         "arm64": {
-            "url": "https://ghproxy.cc/https://github.com/russellbanks/Komac/releases/download/v2.11.1/komac-2.11.1-aarch64-pc-windows-msvc.exe#/Komac.exe",
+            "url": "https://github.sd9.me/https://github.com/russellbanks/Komac/releases/download/v2.11.1/komac-2.11.1-aarch64-pc-windows-msvc.exe#/Komac.exe",
             "hash": "b33fdce0e50a91cb7f71dd6633a138ff80c9542fe67abde226d70bb8ef2cc76e"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/russellbanks/Komac/releases/download/v$version/komac-$version-x86_64-pc-windows-msvc.exe#/Komac.exe"
+                "url": "https://github.sd9.me/https://github.com/russellbanks/Komac/releases/download/v$version/komac-$version-x86_64-pc-windows-msvc.exe#/Komac.exe"
             },
             "arm64": {
-                "url": "https://ghproxy.cc/https://github.com/russellbanks/Komac/releases/download/v$version/komac-$version-aarch64-pc-windows-msvc.exe#/Komac.exe"
+                "url": "https://github.sd9.me/https://github.com/russellbanks/Komac/releases/download/v$version/komac-$version-aarch64-pc-windows-msvc.exe#/Komac.exe"
             }
         },
         "hash": {

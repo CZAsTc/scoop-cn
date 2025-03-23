@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/netbirdio/netbird/releases/download/v0.38.2/netbird_0.38.2_windows_amd64_signed.tar.gz",
+            "url": "https://github.sd9.me/https://github.com/netbirdio/netbird/releases/download/v0.38.2/netbird_0.38.2_windows_amd64_signed.tar.gz",
             "hash": "26bdf0e8398f479f8cca82738d292f203407372abb385a0f17b6e37cf4686a84"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/netbirdio/netbird/releases/download/v$version/netbird_$version_windows_amd64_signed.tar.gz"
+                "url": "https://github.sd9.me/https://github.com/netbirdio/netbird/releases/download/v$version/netbird_$version_windows_amd64_signed.tar.gz"
             }
         }
     }

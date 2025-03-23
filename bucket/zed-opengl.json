@@ -5,7 +5,7 @@
     "license": "AGPL-3.0, Apache-2.0, GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/deevus/zed-windows-builds/releases/download/v0.178.5/zed-opengl.exe",
+            "url": "https://github.sd9.me/https://github.com/deevus/zed-windows-builds/releases/download/v0.178.5/zed-opengl.exe",
             "hash": "fa1897182119154ddde9ea0b1be5002df5f86c523a24265718c5094517b14c25"
         }
     },
@@ -25,6 +25,6 @@
         "github": "https://github.com/deevus/zed-windows-builds"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/deevus/zed-windows-builds/releases/download/v$version/zed-opengl.exe"
+        "url": "https://github.sd9.me/https://github.com/deevus/zed-windows-builds/releases/download/v$version/zed-opengl.exe"
     }
 }

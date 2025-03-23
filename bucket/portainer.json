@@ -5,7 +5,7 @@
     "license": "Zlib",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/portainer/portainer/releases/download/2.27.2/portainer-2.27.2-windows1809-amd64.tar.gz",
+            "url": "https://github.sd9.me/https://github.com/portainer/portainer/releases/download/2.27.2/portainer-2.27.2-windows1809-amd64.tar.gz",
             "hash": "1ced91457cad7749f588a06dc18e4392ff5408d906f08863c6cf51c152826387"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/portainer/portainer/releases/download/$version/portainer-$version-windows1809-amd64.tar.gz",
+                "url": "https://github.sd9.me/https://github.com/portainer/portainer/releases/download/$version/portainer-$version-windows1809-amd64.tar.gz",
                 "hash": {
                     "url": "$baseurl/portainer-$version-windows1809-amd64-checksum.txt",
                     "regex": "$sha256"

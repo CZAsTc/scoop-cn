@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/Canop/broot/releases/download/v1.45.0/broot_1.45.0.zip",
+            "url": "https://github.sd9.me/https://github.com/Canop/broot/releases/download/v1.45.0/broot_1.45.0.zip",
             "hash": "3f11b490189714f488b703157bed63e91b003eb4ff922c952db7dce57da0628c",
             "extract_dir": "x86_64-pc-windows-gnu"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/Canop/broot/releases/download/v$version/broot_$version.zip"
+                "url": "https://github.sd9.me/https://github.com/Canop/broot/releases/download/v$version/broot_$version.zip"
             }
         }
     }
